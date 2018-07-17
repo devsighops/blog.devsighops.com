@@ -1,15 +1,21 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Tom"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+My name is Tom Butler, and I'm all about building useful services and helping people. 
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+I've spent a few years in the web development space, and a few years in the security ops space. If you're into labels I guess I'm a DevSecOps engineer, but my true passion is helping people build cool stuff.
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+My passions include riding bikes and burning down pointless bureaucracy.
+
+If you'd like to chat you can contact me via email:
+<a href="javascript:location='mailto:\u0074\u006f\u006d\u0040\u0064\u0065\u0076\u0073\u0069\u0067\u0068\u006f\u0070\u0073\u002e\u0063\u006f\u006d';void 0"><script type="text/javascript">document.write('\u0074\u006f\u006d\u0040\u0064\u0065\u0076\u0073\u0069\u0067\u0068\u006f\u0070\u0073\u002e\u0063\u006f\u006d')</script></a>
+
+Or on socials:
+
+<a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Thanks for reading!
