@@ -1,14 +1,13 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          DevSighOps
+description:    "Making Deployment Boring"
+url:            "https://blog.devsighops.com"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Tom Butler
+  url:          https://blog.devsighops.com/about
+  email:        tom@devsighops.com
 
 # Build settings
 markdown:       kramdown
